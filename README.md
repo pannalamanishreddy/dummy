@@ -30,7 +30,6 @@ The app is simple to use. Users can:
 1. Created a theme and did styling 
 1. README.md 
 
-***Screenshots** ![ref1]*
 
 **Screenshot 1:**  Gallery View of the application 
 
@@ -40,7 +39,7 @@ The app is simple to use. Users can:
 
 ![](Aspose.Words.ed037dc9-7c3b-41f7-a1ac-9113589c596d.004.jpeg)
 
-**Screenshot 3:** Profile Page ![ref1]
+**Screenshot 3:** Profile Page 
 
 ![](Aspose.Words.ed037dc9-7c3b-41f7-a1ac-9113589c596d.005.jpeg)
 
@@ -50,7 +49,7 @@ These show how the app handles **error checking**—including cases like  **void
 
 ![](Aspose.Words.ed037dc9-7c3b-41f7-a1ac-9113589c596d.006.jpeg)![](Aspose.Words.ed037dc9-7c3b-41f7-a1ac-9113589c596d.007.jpeg)
 
-**Screenshot 6: Profile saved Successful screen ![ref1]**
+**Screenshot 6: Profile saved Successful screen **
 
 ![](Aspose.Words.ed037dc9-7c3b-41f7-a1ac-9113589c596d.008.jpeg)
 
