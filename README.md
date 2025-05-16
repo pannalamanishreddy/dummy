@@ -1,7 +1,7 @@
 ﻿INFO 670 Cross Platform Mobile Application Development 
 
 Assignment -3 \
-![ref1]Title: MyGalleryApp 
+Title: MyGalleryApp 
 
 Submitted by Rohit Nadimpalli 
 
